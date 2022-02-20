@@ -1,7 +1,8 @@
 # Flutter Platform Channels in Windows
-Checking platform channel in windows check the example in 
+Checking platform channel in windows. check the examples in 
 
 * basic_example
+* com_interop
 
 
 ## References
